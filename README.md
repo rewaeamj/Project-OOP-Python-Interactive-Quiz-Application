@@ -2,7 +2,6 @@
 **Realized by :** REWAE AMJAHID  
 **Course :** Object-Oriented Programming - Python - M2         
 **Date :** 21 October 2025  
-**GitHub :** https://github.com/rewaeamj/Project-OOP-Python-Interactive-Quiz-Application
 
 ---
 
