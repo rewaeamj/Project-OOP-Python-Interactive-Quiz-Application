@@ -1,6 +1,6 @@
 # Quiz Generator 
 **Realized by :** REWAE AMJAHID  
-**Course :** Object-Oriented Programming - Python - M2         
+**Course :** Object-Oriented Programming - Python - M2-IMSD     
 **Date :** 21 October 2025  
 
 ---
